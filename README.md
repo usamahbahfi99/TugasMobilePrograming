@@ -1,16 +1,4 @@
-# flutter_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+USAMAH BAHFI-12191686
+Widget sendiri merupakan bagian dari UI flutter itu, di flutter widget digunakan untuk menstrukturkan visual dari UI tersebut. Widget tidak sekedar hanya struktural element seperti button, text, gambar dan sebagaimananya.
+Layout yang paling mendasar adalah row dan column. Row dan column memungkinkan kita untuk menyusun widget atau komponen-komponen UI, baik secara horizontal mau pun secara vertical.
+widget yg di pakai di atas untuk merubah aplikasi
